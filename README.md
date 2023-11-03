@@ -1,5 +1,4 @@
-# AI
-Catch a glimpse of my AI &amp; ML repository on GitHub, featuring a collection of innovative machine learning models and artificial intelligence applications. Dive into the world of data-driven insights and automation with these projects
+
 # AI and ML Code Snippets
 
 Welcome to my AI and ML code snippets repository! Here, you'll find a collection of code examples, scripts, and utilities related to various machine learning and artificial intelligence concepts. Feel free to explore and use these code snippets for your own projects and learning.
