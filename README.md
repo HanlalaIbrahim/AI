@@ -6,9 +6,9 @@ Welcome to my AI and ML code snippets repository! Here, you'll find a collection
 
 ## Contents:
 
-- **[Snippet 1](snippet_link)**: A brief description of what this code does and its potential use.
-- **[Snippet 2](snippet_link)**: Another code example with a short explanation.
-- **[Snippet 3](snippet_link)**: Highlight any unique features or applications of the code.
+-  A brief description of what this code does and its potential use.
+-  Another code example with a short explanation.
+-  Highlight any unique features or applications of the code.
 
 ## Usage
 
