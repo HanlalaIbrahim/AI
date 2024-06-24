@@ -23,9 +23,6 @@ Refer to the specific README or comments within each code snippet for any prereq
 2. Navigate to the relevant code snippet: `cd AI-ML-Code-Snippets/Snippet1`
 3. Follow the instructions in the README or comments within the code.
 
-## License
-
-This code snippets repository is provided under the MIT License, granting you the freedom to use, modify, and share the code, with proper attribution.
 
 ## Feedback
 
